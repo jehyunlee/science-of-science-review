@@ -1320,13 +1320,13 @@ document.querySelectorAll('.toc-section').forEach(link => {
 # Section → representative paper figure caption
 SECTION_FIGURES = {
     "ch1-1": ("sec_1_1.png", "Fortunato et al. (2018) Science of Science"),
-    "ch1-2": ("sec_1_2.png", "Watts & Strogatz (1998) Small-World Networks"),
+    "ch1-2": ("sec_1_2.png", "Newman (2001) Structure of Scientific Collaboration Networks"),
     "ch1-3": ("sec_1_3.png", "Barabási & Albert (1999) Scale-Free Networks"),
-    "ch1-4": ("sec_1_4.png", "Wuchty et al. (2007) Team Science"),
+    "ch1-4": ("sec_1_4.png", "Guimerà et al. (2005) Team Assembly Mechanisms"),
     "ch2-1": ("sec_2_1.png", "Hirsch (2005) h-index"),
     "ch2-2": ("sec_2_2.png", "Park et al. (2023) Declining Disruptiveness"),
     "ch2-3": ("sec_2_3.png", "Ke et al. (2015) Sleeping Beauties"),
-    "ch2-4": ("sec_2_4.png", "Nielsen & Andersen (2021) Citation Inequality"),
+    "ch2-4": ("sec_2_4.png", "Larivière et al. (2015) Oligopoly of Academic Publishers"),
     "ch3-1": ("sec_3_1.png", "Radicchi et al. (2008) Citation Distributions"),
     "ch3-2": ("sec_3_2.png", "Börner et al. (2012) UCSD Map of Science"),
     "ch3-3": ("sec_3_3.png", "Fortunato (2010) Community Detection"),
@@ -1335,13 +1335,13 @@ SECTION_FIGURES = {
     "ch4-2": ("sec_4_2.png", "Way et al. (2017) Faculty Productivity"),
     "ch4-3": ("sec_4_3.png", "Hofstra et al. (2020) Diversity-Innovation Paradox"),
     "ch4-4": ("sec_4_4.png", "Sekara et al. (2018) Chaperone Effect"),
-    "ch5-1": ("sec_5_1.png", "Wang et al. (2023) AI for Scientific Discovery"),
+    "ch5-1": ("sec_5_1.png", "Lu et al. (2024) The AI Scientist"),
     "ch5-2": ("sec_5_2.png", "Liang et al. (2025) LLM & Science of Science"),
     "ch5-3": ("sec_5_3.png", "Shao et al. (2025) SciSciGPT"),
     "ch5-4": ("sec_5_4.png", "Boiko et al. (2023) Autonomous Chemical Research"),
     "ch6-1": ("sec_6_1.png", "Open Science Collaboration (2015) Reproducibility"),
-    "ch6-2": ("sec_6_2.png", "Fang et al. (2012) Misconduct & Retraction"),
-    "ch6-3": ("sec_6_3.png", "Li & Agha (2015) Peer Review Effects"),
+    "ch6-2": ("sec_6_2.png", "Grieneisen & Zhang (2012) Retracted Articles Survey"),
+    "ch6-3": ("sec_6_3.png", "Shah et al. (2018) Design and Analysis of Peer Review"),
     "ch6-4": ("sec_6_4.png", "Azoulay et al. (2019) Does Science Advance One Funeral at a Time?"),
 }
 
