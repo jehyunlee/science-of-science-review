@@ -250,7 +250,7 @@ body {
   line-height: 1.3;
 }
 #hero-text p { font-size: 15px; color: #fff; margin-top: 8px; }
-#hero-text .date { font-size: 13px; color: #88a8c8; margin-top: 16px; }
+#hero-text .date { font-size: 13px; color: #fff; margin-top: 16px; }
 
 /* ── Chapter sections ── */
 .chapter {
@@ -1395,7 +1395,7 @@ def build_html():
 {ch6}
 {refs}
 <footer>
-  <p>Claude Code powered by Oh-My-ClaudeCode, SKILL by Jehyun LEE jehyun.lee@gmail.com</p>
+  <p>Claude Code powered by Oh-My-ClaudeCode (Yeachan HEO), SKILL by Jehyun LEE (jehyun.lee@gmail.com)</p>
   <p>2026.02.28.</p>
 </footer>
 </main>
