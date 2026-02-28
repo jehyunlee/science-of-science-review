@@ -575,8 +575,6 @@ APS 논문 데이터베이스를 분석한 결과, 팀 규모 분포는 단일 �
 
 <div class="figure">
 {img_tag('fig_ch1.png', '제1장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 1. SciSci의 핵심 개념 — 인용 네트워크와 협력 구조</div>
-<div class="figure-source">출처: Fortunato et al. (2018). Science of Science. Science.</div>
 </div>
 
 {arrow('제1장 요약: 과학은 네트워크 구조를 가지며, 그 생산 방식은 개인에서 팀으로 근본적으로 변화했다. → 이제 이러한 과학 활동을 어떻게 "측정"할 것인가?')}
@@ -683,8 +681,6 @@ Web of Science 데이터 분석에 따르면, 과학 출판물의 수는 매 15-
 
 <div class="figure">
 {img_tag('fig_ch2.png', '제2장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 2. 과학 측정 지표의 역사와 CD 지수의 시계열 변화</div>
-<div class="figure-source">출처: Park et al. (2023). Nature. | Hirsch (2005). PNAS.</div>
 </div>
 
 {arrow('제2장 요약: 과학 측정 지표의 발전은 과학 활동의 정량적 이해를 가능하게 했지만, 동시에 지표의 한계와 왜곡도 드러냈다. → 이제 이 지표들로 드러난 과학 지식의 거시적 구조를 살펴보자.')}
@@ -788,8 +784,6 @@ OA로 제공되고 있으며, Green OA(저자 자체 아카이빙)가 가장 큰
 
 <div class="figure">
 {img_tag('fig_ch3.png', '제3장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 3. 과학 지식의 구조 — 인용 분포 보편성과 과학 지도</div>
-<div class="figure-source">출처: Radicchi et al. (2008). PNAS. | Borner et al. (2012). PLOS ONE.</div>
 </div>
 
 {arrow('제3장 요약: 과학 지식은 보편적 통계 법칙을 따르는 네트워크 구조를 가지며, 오픈 데이터 인프라가 이 구조의 분석을 민주화하고 있다. → 이 구조 안에서 과학자들은 어떻게 협업하고, 경력을 쌓는가?')}
@@ -913,8 +907,6 @@ US 기반 연구자 데이터를 분석한 결과, 흑인 여성 과학자의 �
 
 <div class="figure">
 {img_tag('fig_ch4.png', '제4장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 4. 팀 규모와 혁신성 — 소규모 팀의 파괴적 혁신 패턴</div>
-<div class="figure-source">출처: Wu, Wang & Evans (2019). Nature.</div>
 </div>
 
 {arrow('제4장 요약: 팀 규모·다양성·멘토십·이동성이 과학적 혁신과 경력을 복잡하게 형성한다. → AI와 LLM의 등장은 이 모든 동역학을 어떻게 변화시킬 것인가?')}
@@ -1037,8 +1029,6 @@ AI는 인간이 물리적으로 수행하기 어려운 규모의 문헌 리뷰�
 
 <div class="figure">
 {img_tag('fig_ch5.png', '제5장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 5. AI 기반 과학 발견 — AlphaFold부터 자율적 과학 에이전트까지</div>
-<div class="figure-source">출처: Wang et al. (2023). Nature. | Jumper et al. (2021). Nature.</div>
 </div>
 
 {arrow('제5장 요약: AI와 LLM은 과학적 발견을 가속화하는 동시에 과학의 다양성·신뢰성·공정성에 새로운 도전을 제기한다. → 이러한 변화 속에서 과학 정책과 제도는 어떻게 대응하고 있는가?')}
@@ -1161,8 +1151,6 @@ STEM 분야의 주요 학술상 수상 네트워크를 분석한 결과, 상의 
 
 <div class="figure">
 {img_tag('fig_ch6.png', '제6장 핵심 그림', 'chapter-fig')}
-<div class="figure-caption">그림 6. 과학 정책의 과제 — 재현성 위기와 연구비 배분의 편향</div>
-<div class="figure-source">출처: Open Science Collaboration (2015). Science. | Baker (2016). Nature.</div>
 </div>
 
 {arrow('제6장 요약: 재현성 위기, 연구비 배분의 편향, AI의 급속한 통합이라는 세 가지 도전 속에서, 과학 정책은 인센티브 구조의 근본적 재설계를 요구받고 있다.')}
