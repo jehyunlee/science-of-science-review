@@ -249,7 +249,7 @@ body {
   font-size: 28px; font-weight: 700; color: #fff;
   line-height: 1.3;
 }
-#hero-text p { font-size: 15px; color: #a8c8e8; margin-top: 8px; }
+#hero-text p { font-size: 15px; color: #fff; margin-top: 8px; }
 #hero-text .date { font-size: 13px; color: #88a8c8; margin-top: 16px; }
 
 /* ── Chapter sections ── */
@@ -479,7 +479,7 @@ def build_cover_hero():
   <div id="hero-text">
     <h1>Science of Science 서베이 보고서</h1>
     <p>과학을 과학하다: 데이터와 AI로 바라본 과학의 구조, 동역학, 그리고 미래</p>
-    <div class="date">2026년 2월</div>
+    <div class="date">2026.02.28.</div>
   </div>
 </div>
 </section>
@@ -1396,7 +1396,7 @@ def build_html():
 {refs}
 <footer>
   <p>Claude Code powered by Oh-My-ClaudeCode, SKILL by Jehyun LEE jehyun.lee@gmail.com</p>
-  <p>2026년 2월</p>
+  <p>2026.02.28.</p>
 </footer>
 </main>
 
