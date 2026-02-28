@@ -1373,14 +1373,14 @@ def build_html():
 <!-- Open Graph -->
 <meta property="og:title" content="과학을 과학하다: 데이터와 AI로 바라본 과학의 구조, 동역학, 그리고 미래" />
 <meta property="og:description" content="Science of Science 분야의 주요 연구 동향과 분석 결과를 정리한 보고서입니다." />
-<meta property="og:image" content="https://jehyunlee.github.io/science-of-science-review/og-image.png" />
+<meta property="og:image" content="https://jehyunlee.github.io/science-of-science-review/og-image.jpg" />
 <meta property="og:url" content="https://jehyunlee.github.io/science-of-science-review/" />
 <meta property="og:type" content="website" />
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="과학을 과학하다: 데이터와 AI로 바라본 과학의 구조, 동역학, 그리고 미래" />
 <meta name="twitter:description" content="Science of Science 분야의 주요 연구 동향과 분석 결과를 정리한 보고서입니다." />
-<meta name="twitter:image" content="https://jehyunlee.github.io/science-of-science-review/og-image.png" />
+<meta name="twitter:image" content="https://jehyunlee.github.io/science-of-science-review/og-image.jpg" />
 <style>{CSS}</style>
 </head>
 <body>
