@@ -472,7 +472,7 @@ def build_toc():
 
 def build_cover_hero():
     src = img_b64('cover_main.png')
-    style = f'background-image:url("{src}")' if src else ''
+    style = f"background-image:url('{src}')" if src else ''
     return f"""
 <section id="cover">
 <div id="hero" style="{style}">
