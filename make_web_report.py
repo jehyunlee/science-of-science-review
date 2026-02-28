@@ -1395,7 +1395,7 @@ def build_html():
 {ch6}
 {refs}
 <footer>
-  <p>Claude Code powered by Oh-My-ClaudeCode (Yeachan HEO), SKILL by Jehyun LEE (jehyun.lee@gmail.com)</p>
+  <p>Claude Code powered by Oh-My-ClaudeCode (by Yeachan HEO), SKILL by Jehyun LEE | jehyun.lee@gmail.com</p>
   <p>2026.02.28.</p>
 </footer>
 </main>
